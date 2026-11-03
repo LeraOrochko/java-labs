@@ -1,0 +1,24 @@
+# Compiled files
+*.class
+*.jar
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Lab data files (создаются программами ЛР14)
+game.txt
+f.txt
+g.txt
+h.txt
+time.txt
+f5.txt
